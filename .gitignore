@@ -1,0 +1,5 @@
+*.OBJ
+*.MAP
+*.EXM
+.DS_Store
+Thumbs.db
